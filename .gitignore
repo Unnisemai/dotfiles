@@ -1,0 +1,16 @@
+# Archivos temporales
+*.tmp
+*.log
+*.cache
+
+# Historial de Micro
+micro/buffers/
+
+# Datos locales
+.DS_Store
+
+# Secretos
+.env
+*.secret
+*.key
+*.pem

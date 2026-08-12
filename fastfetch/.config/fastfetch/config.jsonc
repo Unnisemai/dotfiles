@@ -1,0 +1,35 @@
+{
+    "logo": {
+        "type": "kitty",
+        "source": "/home/lises/Imágenes/PsyduckTerminal.jpg",
+        "width": 30
+    },
+
+    "modules": [
+        "title",
+        "separator",
+        "os",
+        "host",
+        "kernel",
+        "uptime",
+        "packages",
+        "shell",
+        "display",
+        "de",
+        "wm",
+        "wmtheme",
+        "theme",
+        "icons",
+        "terminal",
+        "terminalfont",
+        "cpu",
+        "gpu",
+        "memory",
+       
+        "localip",
+        "battery",
+        "locale",
+        "break",
+        "colors"
+    ]
+}
